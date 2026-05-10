@@ -46,7 +46,7 @@
         <version>3.5.5</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>RegerationSuite.xml</suiteXmlFile>
+            <suiteXmlFile>RegressionSuite.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>

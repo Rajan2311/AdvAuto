@@ -5,8 +5,8 @@ public class DemoTest {
 	
 	@Test
 	public void MangoTest() {
-		System.out.println("mango");
-		System.out.println("Orange");
+		System.out.println("Banana");
+		System.out.println("Papaya");
 	}
 
 }

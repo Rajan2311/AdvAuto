@@ -6,7 +6,7 @@ public class DemoTest {
 	@Test(groups = "regression")
 	public void MangoTest() {
 		System.out.println("Banana");
-		System.out.println("Papaya");
+		System.out.println("Grapes");
 	}
 
 }
